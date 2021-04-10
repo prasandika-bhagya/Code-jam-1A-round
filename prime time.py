@@ -1,3 +1,6 @@
+#codejam 2021
+#1A
+
 class Solver:
     def solve(self, configs):
         self.answer = 0
